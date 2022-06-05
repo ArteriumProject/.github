@@ -1,5 +1,5 @@
-# ArteriumProject
+### ArteriumProject 👋
+![](https://i.imgur.com/A5uifxu.png)
 
-Links:
-Site: https://www.arterium.fun
-VK: https://vk.com/arteriumproject
+VK: vk.com/arteriumproject
+Site: www.arterium.fun
