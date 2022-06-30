@@ -1,5 +1,12 @@
 ### ArteriumProject 👋
 ![](https://i.imgur.com/A5uifxu.png)
 
-VK: vk.com/arteriumproject
-Site: www.arterium.fun
+### VK: vk.com/arteriumminecraft
+
+
+
+### Site: www.arterium.fun
+
+
+
+## Telegram: t.me/arteriumproject
